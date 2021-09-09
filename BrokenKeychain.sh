@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Extension Attribute to check if the keychain is broken.
+# Created by macstuff.dev - Melwin Moeskops 
 #   Data type: String
 
 # Get logged in user

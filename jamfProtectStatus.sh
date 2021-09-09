@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 # Extension Attribute to display the status of Jamf Protect
+
+# Created by macstuff.dev - Melwin Moeskops 
 #   Display Name: Jamf Protect Status
 #   Data type: String
 #   Expected results: Protected, Enrolling, Missing Plan, Disconnected, Protect binary does not exist.
